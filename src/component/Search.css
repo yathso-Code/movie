@@ -1,0 +1,27 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.search_box {
+      margin: 10px 0;
+     
+}
+.search_box h3{
+    text-align: center;
+    margin: 20px 0;
+}
+.search_box p{
+    text-align: center;
+    margin: 20px 0;
+}
+.search_box .input_box{
+    text-align: center;
+}
+.search_box .input_box input{
+    padding: 8px;
+    border-radius: 4px;
+    width: 300px;
+    border: none;
+    border: 1px solid gray;
+}
